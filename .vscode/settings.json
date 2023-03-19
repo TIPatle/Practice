@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.debugger.useBacktickCommandSubstitution": false
+}
